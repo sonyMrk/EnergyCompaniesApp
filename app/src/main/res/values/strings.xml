@@ -5,4 +5,16 @@
     <string name="sign_in_customer">Войти как заказчик</string>
     <string name="sign_in_provider">Войти как поставщик</string>
     <string name="next">Далее</string>
+    <string name="sign_inToApp">Вход в приложения</string>
+    <string name="SNF">ФИО</string>
+    <string name="hintFullName">Иванов Василий Иванович</string>
+    <string name="company_name">Название компании</string>
+    <string name="companyHintName">СэвКазЭнерго</string>
+    <string name="city_name">Город</string>
+    <string name="cityHintName">Петропавловск</string>
+    <string name="enterToApp">Войти в приложения</string>
+    <string name="number">Номер телефона</string>
+    <string name="numberExample">8 (777) 253 - 48 - 44</string>
+    <string name="code_sms">Код СМС</string>
+    <string name="_4564">4564</string>
 </resources>
