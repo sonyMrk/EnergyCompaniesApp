@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="btBlueColor">#2A6AC9</color>
+    <color name="textColor">#27214D</color>
 </resources>

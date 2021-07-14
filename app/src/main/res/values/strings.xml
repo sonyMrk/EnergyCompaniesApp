@@ -2,4 +2,7 @@
     <string name="app_name">First Project</string>
     <string name="sign_up">Зарегистрироваться</string>
     <string name="sign_in">Войти</string>
+    <string name="sign_in_customer">Войти как заказчик</string>
+    <string name="sign_in_provider">Войти как поставщик</string>
+    <string name="next">Далее</string>
 </resources>
